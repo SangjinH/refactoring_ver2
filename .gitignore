@@ -6,3 +6,7 @@ gradlew
 gradle
 gradlew.bat
 settings.gradle
+
+gradle
+.idea
+build
